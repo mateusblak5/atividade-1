@@ -1,0 +1,17 @@
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+#parent {
+  height: 100%;
+  width: 100%;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.child {
+  height: 30%;
+  width: 30%;
+}
