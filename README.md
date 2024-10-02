@@ -1,13 +1,22 @@
-com a declaração <!DOCTYPE html> e define um elemento <html> que contém todos os outros elementos.
+Estrutura Básica de uma Página Web em HTML
 
-Dentro do elemento <html>, há dois elementos principais: <head> e <body>. O elemento <head> é como o "cérebro" da página, onde você coloca informações importantes, como links para folhas de estilo (como o styles.css).
+A declaração <!DOCTYPE html> indica que o documento é um arquivo HTML5.
 
-Já o elemento <body> é como o "corpo" da página, onde você coloca todos os elementos visíveis. Nesse caso, há um elemento <div> com um ID de "parent" que contém vários elementos filhos.
+Elemento <html> O elemento <html> é o elemento raiz do documento HTML, que contém todos os outros elementos.
 
-Esses elementos filhos são 12 <div> vazios com uma classe de "child" e 12 <h1> com títulos diferentes, como nomes de alimentos e bebidas brasileiros, e uma motosserra.
+Elementos Principais: <head> e <body>
 
-Em resumo, esse código HTML está criando uma estrutura básica para uma página web, com um contêiner "parent" que contém vários elementos filhos com títulos e divs vazios.
+Elemento <head>: É como o "cérebro" da página, onde são colocadas informações importantes, como links para folhas de estilo (como o styles.css).
+Elemento <body>: É como o "corpo" da página, onde são colocados todos os elementos visíveis.
+Estrutura do Elemento <body>
 
-Esta é minha atividade espero que tenha gostado, abraços.
+Dentro do elemento <body>, há um elemento <div> com um ID de "parent" que contém vários elementos filhos.
+
+Elementos Filhos
+
+Os elementos filhos do elemento <div> com ID "parent" são:
+
+12 <div> vazios com uma classe de "child"
+12 <h1> com títulos diferentes, como nomes de alimentos e bebidas brasileiros, e uma motosserra.
 
 
